@@ -1,6 +1,6 @@
 # Module-8-Concurrency
 Module 8 | Concurrency Assignment:
-ArraySum.Java contains the main method that will create the array of random integers and run the threads.
+ArraySum.Java contains the main method that will create the array of 200 million random integers and run the threads.
 Both Multi and Single thread java files will take int[] array and add each number together, finding the total.
   Single thread will add each element of the array and print the result.
   Multithread will split the array into two seperate arrays, then both thread 1 and thread 2 will display their results
